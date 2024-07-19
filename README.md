@@ -1,6 +1,8 @@
 # BubbleSketch
 
-BubbleSketch is adaptive to finding Top-k elephant flows. There are also several well-known algorithms, including Lossy Counting, Space-Saving, Augmented Sketch, Heavy Keeper, etc. Experimental results show that our BubbleSketch achieves high precision in finding Top-k elephant flows.
+* Bubble Sketch: A High-performance and Memory-efficient Sketch for Finding Top-$k$ Items in Data Streams
+* Authors: Lu Cao, Qilong Shi, Yuxi Liu, Hanyue Zheng, Yao Xin, Wenjun Li*, Tong Yang, Yangyang Wang, Yang Xu, Weizhe Zhang, and Mingwei Xu 
+* Corresponding e-mail: wenjunli@pku.org.cn
 
 # How to run
 
