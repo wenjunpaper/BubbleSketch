@@ -1,6 +1,6 @@
 # BubbleSketch
 
-* Bubble Sketch: A High-performance and Memory-efficient Sketch for Finding Top-$k$ Items in Data Streams
+* Bubble Sketch: A High-performance and Memory-efficient Sketch for Finding Top-k Items in Data Streams (ACM CIKM 2024)
 * Authors: Lu Cao, Qilong Shi, Yuxi Liu, Hanyue Zheng, Yao Xin, Wenjun Li*, Tong Yang, Yangyang Wang, Yang Xu, Weizhe Zhang, and Mingwei Xu 
 * Corresponding e-mail: wenjunli@pku.org.cn
 
